@@ -134,7 +134,7 @@ public class ActivityTwo extends Activity {
 		// Update the appropriate count variable
 		++mResume;
 		displayCounts();
-       // test
+       // test of update
 	}
 
 	@Override
